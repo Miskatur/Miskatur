@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Miskatur Rahman</h1>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Frontend+Developer;I'm+a+MERN+Stack+Developer;" alt="Typing SVG" /></a></p>
 
+<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding-cover"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miskatur&label=Profile%20views&color=0e75b6&style=flat" alt="miskatur" /> </p>
 
@@ -14,7 +15,6 @@
 
 - ⚡ Fun fact **I am a Football Freak!**
 
-<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding-cover"/>
 
 <h3 align="left"> 💻 Connect with me:</h3>
 <p align="left">
