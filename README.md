@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **miskaturrahman34826@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16dgFATJyIQLqU8uHYIxXBWcWVM5ATCZS/view?usp=sharing](https://drive.google.com/file/d/16dgFATJyIQLqU8uHYIxXBWcWVM5ATCZS/view?usp=sharing)
+- 📄 Have a look on my Resume: [https://drive.google.com/file/d/16dgFATJyIQLqU8uHYIxXBWcWVM5ATCZS/view?usp=sharing](https://drive.google.com/file/d/16dgFATJyIQLqU8uHYIxXBWcWVM5ATCZS/view?usp=sharing)
 
 - ⚡ Fun fact **I am a Football Freak!**
 
