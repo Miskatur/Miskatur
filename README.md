@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/hMfJxhH/Add-a-heading-1.png" height='60' alt="cover"/>
+<img src="https://i.ibb.co/hMfJxhH/Add-a-heading-1.png" alt="cover"/>
 
 <h1 align="center">Hi 👋, I'm Miskatur Rahman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
