@@ -16,11 +16,8 @@
 
 ###Connect With Me 
 <p align="left">
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/miskatur9) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miskatur9/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/miska_rah_man) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/miskatur9) [![Mail Badge]
+    [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/miskatur9)
 
-<a href="https://app.daily.dev/nwebpro">
-    <img src="https://api.daily.dev/devcards/eea00411bac943d5be5e61b928094ebb.png?r=8u2" align="right" width="250" alt="Ab Naeem's Dev Card"/>
-</a>
 
 
 
