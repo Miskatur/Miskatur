@@ -1,7 +1,8 @@
 <img src="https://i.ibb.co/hMfJxhH/Add-a-heading-1.png" alt="cover"/>
 
 <h1 align="center">Hi 👋, I'm Miskatur Rahman</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=550&lines=I'm+a+Frontend+Developer;I'm+a+MERN+Stack+Developer;" alt="Typing SVG" /></a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miskatur&label=Profile%20views&color=0e75b6&style=flat" alt="miskatur" /> </p>
 
