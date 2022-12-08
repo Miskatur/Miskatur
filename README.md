@@ -1,12 +1,7 @@
-
-<h1 align="center">Hi 👋, I'm <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Miskatur+Rahman;Frontend+Developer;MERN+Stack+Developer;ReactJS+Developer" alt="Typing SVG" /></a></h1> 
-
-<img alt="coding" align="right" width="400"
-src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
+<h1 align="center">Hi 👋, I'm Miskatur Rahman</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miskatur&label=Profile%20views&color=0e75b6&style=flat" alt="miskatur" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miskatur" alt="miskatur" /></a> </p>
 
 - 💬 Ask me about **Html, Css, Tailwinds, ReactJS**
 
