@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/hMfJxhH/Add-a-heading-1.png" height='60' alt="cover"/>
+<img src="https://i.ibb.co/hMfJxhH/Add-a-heading-1.png" alt="cover" />
 
 <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding-cover"/>
 # 💫 About Me:
