@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/hMfJxhH/Add-a-heading-1.png" height='60' alt="cover"/>
+
 <img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding-cover"/>
 # 💫 About Me:
 - I am currently working on MERN Stack Development as well as MySQL with SaaS and focusing more on advanced technologies.<br>- I am open to talking about HTML, CSS, TailwindCSS, ReactJS, Javascript, Typescript, Redux, Mongoose, MongoDB, NodeJS, and NextJS.<br>- I am trying to learn advanced technologies like AWS, UNIT Testing, etc.<br><br>Reach me in my email: miskaturrahman34826@gmail.com<br>Follow me on Linkedin: https://www.linkedin.com/in/miskatur9
