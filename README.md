@@ -1,6 +1,6 @@
 <img src="https://i.ibb.co/hMfJxhH/Add-a-heading-1.png" alt="cover" />
 
-<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding-cover"/>
+<img align="right" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding-cover" style=" width: 30vw"/>
 # 💫 About Me:
 - I am currently working on MERN Stack Development as well as MySQL with SaaS and focusing more on advanced technologies.<br>- I am open to talking about HTML, CSS, TailwindCSS, ReactJS, Javascript, Typescript, Redux, Mongoose, MongoDB, NodeJS, and NextJS.<br>- I am trying to learn advanced technologies like AWS, UNIT Testing, etc.<br><br>Reach me in my email: miskaturrahman34826@gmail.com<br>Follow me on Linkedin: https://www.linkedin.com/in/miskatur9
 
@@ -24,7 +24,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px; width: 80vw"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Miskatur&icon=2&color=12)](https://visitcount.itsvg.in)
